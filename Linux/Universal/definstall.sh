@@ -5,7 +5,7 @@ apt-get upgrade
 
 apt-get install git zsh
 
-# TODO: install urxvt
+# TODO: install rxvt-unicode
 
 # install oh-my-zsh
 sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
